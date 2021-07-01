@@ -24,7 +24,8 @@ Here we can observe the following:
         *Charles Casper Stockham received 23.0% (85,213 total votes)
         *Diana DeGette received 73.8% (272,892 total votes)
         *Raymon Anthony Doane received 3.1% (11,606 total votes)
-    -The winner of the election was Diana DeGette by a landslide percentage of 73.8% and total votes of 272,892. Her win was largely due to Denver county's turnout and voting pattern. 
+    -The winner of the election was Diana DeGette by a landslide percentage of 73.8% and total votes of 272,892. 
+    -DeGette's win was largely due to Denver county's turnout and voting pattern. 
 
 
 ## **Election-Audit Summary**
